@@ -12,7 +12,8 @@
 ## Contact
 <a href="https://www.instagram.com/pjp_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pjp_95"/> <a href="mailto:pjpark@postech.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **pyungjinpark/pyungjinpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
