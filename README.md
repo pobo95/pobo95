@@ -5,15 +5,15 @@
  <h3 align="center">Hi there 👋</h3>
 <div align="center">
 
- <h3 align="center">:books:Languages:books:</h3>
+ <h3 align="center">:blue_book: Tech Stack :blue_book:</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
- <h3 align="center">Studying</h3>
+ <h3 align="center">:airplane: Studying :airplane:</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
- <h3 align="center">Contact</h3>
+ <h3 align="center">:waning_gibbous_moon: Contact:waning_gibbous_moon: </h3>
  <div align="center">
 <a href="https://github.com/pyungjinpark"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pyungjinpark"/>  <a href="mailto:pjpark@postech.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.instagram.com/pjp_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pjp_95"/> 
 
