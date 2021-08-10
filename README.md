@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20World!&fontAlign=50&desc=PJ's%20Github&descAlignY=80&descAlign=68&color=timeGradient))
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20World!&desc=PJ's%20Github&descAlignY=80&descAlign=68&color=timeGradient))
 
 
 ### Hi there 👋
