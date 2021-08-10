@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=300&section=header&text=Welcome&fontSize=90&fontColor=d6ace6)
 
-#### $$i\hbar\frac{\partial}{\partial t}\left| \psi(t) \right\rangle=\hat{H}\left| \psi(t) \right\rangle$$
+$$i\hbar\frac{\partial}{\partial t}\left| \psi(t) \right\rangle=\hat{H}\left| \psi(t) \right\rangle$$
 
 ### Hi there 👋
 
