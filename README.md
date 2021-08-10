@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 ## Contact
-<a href="https://www.instagram.com/pjp_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pjp_95"/>
+<a href="https://www.instagram.com/pjp_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pjp_95"/> <a href="mailto:pjpark@postech.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gamil&logoColor=white"/></a>
   
   
 <!--
