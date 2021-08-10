@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20World!&desc=PJ's%20Github&descAlignY=80&descAlign=68&color=timeGradient))
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello%20World!&desc=PJ's%20Github&descAlignY=80&descAlign=68&color=timeGradient)
 
 
-### Hi there 👋
 
-
+ <h3 align="center">Hi there 👋</h3>
+<div align="center">
+ 
  <h3 align="center">Languages</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
