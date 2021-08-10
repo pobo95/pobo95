@@ -13,7 +13,7 @@ I'm PJ studying physics in POSTECH, Republic of korea.
 
  <h3 align="center"> Studying </h3>
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
  <h3 align="center"> Contact </h3>
  <div align="center">
