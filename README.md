@@ -2,10 +2,7 @@
 
 
 
- <h3 align="center">Hi there 👋</h3>
-<div align="center">
-I'm PJ studying physics in POSTECH, Republic of korea.
- Researching nano-material physics with machine learning.
+ 
  
  <h3 align="center"> Tech Stack </h3>
 <div align="center">
